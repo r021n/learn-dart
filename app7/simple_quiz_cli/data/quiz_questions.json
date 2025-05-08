@@ -1,0 +1,45 @@
+[
+  {
+    "id": "q1",
+    "type": "multiple_choice",
+    "text": "Apa ibukota Indonesia?",
+    "options": ["Surabaya", "Jakarta", "Bandung", "Medan"],
+    "correctOptionIndex": 1
+  },
+  {
+    "id": "q2",
+    "type": "true_false",
+    "text": "Matahari terbit dari barat.",
+    "correctAnswer": false
+  },
+  {
+    "id": "q3",
+    "type": "multiple_choice",
+    "text": "Siapa penemu bola lampu?",
+    "options": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Thomas Edison",
+      "Nikola Tesla"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "id": "q4",
+    "type": "true_false",
+    "text": "Air mendidih pada suhu 100 derajat Celsius (di tekanan standar).",
+    "correctAnswer": true
+  },
+  {
+    "id": "invalid_q",
+    "type": "unknown_type",
+    "text": "Ini pertanyaan dengan tipe tidak valid."
+  },
+  {
+    "id": "q5_invalid_mc",
+    "type": "multiple_choice",
+    "text": "Pertanyaan MC tidak valid (index salah)",
+    "options": ["A", "B"],
+    "correctOptionIndex": 5
+  }
+]
