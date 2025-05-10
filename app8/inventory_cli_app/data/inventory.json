@@ -1,0 +1,30 @@
+[
+  {
+    "id": "ELEC-1715245015000-1",
+    "name": "Laptop Super",
+    "basePrice": 15000000.0,
+    "type": "ElectronicProduct",
+    "brand": "BrandX",
+    "warrantyMonths": 24,
+    "originalPrice": 15000000.0,
+    "discountPercentage": 0.1
+  },
+  {
+    "id": "FOOD-1715245025000-2",
+    "name": "Roti Tawar Enak",
+    "basePrice": 15000.0,
+    "type": "FoodProduct",
+    "ingredients": "Tepung, Gula, Ragi",
+    "expiryDate": "2024-05-20T00:00:00.000"
+  },
+  {
+    "id": "ELEC-1746852108658-3",
+    "name": "lampu",
+    "basePrice": 20000.0,
+    "type": "ElectronicProduct",
+    "brand": "hanochs",
+    "warrantyMonths": 12,
+    "originalPrice": 20000.0,
+    "discountPercentage": 0.0
+  }
+]
